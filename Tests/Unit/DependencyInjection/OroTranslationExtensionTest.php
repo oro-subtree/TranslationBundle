@@ -1,6 +1,6 @@
 <?php
 
-namespace Oro\Bundle\TranslationBundle\DependencyInjection;
+namespace Oro\Bundle\TranslationBundle\Tests\Unit\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\Definition;
 
