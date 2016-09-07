@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     oro-translation-language-grid:
         acl_resource: oro_translation_language_index
         source:
